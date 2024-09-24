@@ -22,7 +22,7 @@ function SomeDescendant() {
 
 ## Additional Resources
 
-**Guides**
+**Guides** 
 
 - [Streaming][streaming_guide]
 
